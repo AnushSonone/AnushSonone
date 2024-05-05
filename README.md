@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning and close to finishing **Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [anushsonone.vercel.app](https://www.anushsonone.vercel.app)
+- 👨‍💻 All of my projects are available at [anushsonone.vercel.app](https://anushsonone.vercel.app/)
 
 - 📫 How to reach me **anush.sonone@gmail.com**
 
-- 📄 Know about my experiences - [Resume]([https://github.com/FadyFaheem/FadyFaheem/blob/main/Resume.pdf](https://github.com/AnushSonone/AnushSonone/blob/5015c73487b1e28c473ac6e7849df4d4e843446e/Anush%20Sonone%20Resume%202023.pdf))
+- 📄 Know about my experiences - [Resume]([https://github.com/AnushSonone/AnushSonone/blob/5015c73487b1e28c473ac6e7849df4d4e843446e/Anush%20Sonone%20Resume%202023.pdf])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
