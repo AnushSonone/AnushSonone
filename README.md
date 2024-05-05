@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anush Sonone</h1>
-<h3 align="center">I'm a 18-year-old with a strong passion for programming. I look toward meeting my goals and surpassing expectations.</h3>
+<h1 align="center">Hello! I'm Anush Sonone.</h1>
+<h3 align="center">I am a passionate software developer who loves desinging websites, building servers and automating things. I love learning new things and passing on what I know with others. I'm currently attending the University of Texas at Austin to major in Computer Science. Feel free to reach out to me! :) </h3>
 
 - 🔭 I’m currently working on [Anush Sonone Portfolio](https://github.com/AnushSonone/anush-portfolio)
 
