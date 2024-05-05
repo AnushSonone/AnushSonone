@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **anush.sonone@gmail.com**
 
-- 📄 Know about my experiences - [Resume](https://github.com/FadyFaheem/FadyFaheem/blob/main/Resume.pdf)
+- 📄 Know about my experiences - [Resume]([https://github.com/FadyFaheem/FadyFaheem/blob/main/Resume.pdf](https://github.com/AnushSonone/AnushSonone/blob/5015c73487b1e28c473ac6e7849df4d4e843446e/Anush%20Sonone%20Resume%202023.pdf))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
