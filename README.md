@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Anush.</h1>
-<h5 align="center">Passionate software developer who loves desinging websites, building servers and automating things. I'm currently attending the University of Texas at Austin to major in Computer Science. Feel free to reach out to me! :) </h5>
+<h5 align="center">I'm a passionate software developer who loves desinging websites, building servers and automating things. I'm currently attending the University of Texas at Austin to major in Computer Science. Feel free to reach out to me! :) </h5>
 
 - 🔭 I’m currently working on [Anush Sonone Portfolio](https://github.com/AnushSonone/anush-portfolio)
 
