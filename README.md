@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning and close to finishing **Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [anushsonone.vercel.app.com](https://www.anushsonone.vercel.app)
+- 👨‍💻 All of my projects are available at [anushsonone.vercel.app](https://www.anushsonone.vercel.app)
 
 - 📫 How to reach me **anush.sonone@gmail.com**
 
