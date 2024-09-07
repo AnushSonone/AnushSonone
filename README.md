@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **anush.sonone@gmail.com**
 
-- 📄 Know about my experiences - [Resume](https://github.com/AnushSonone/AnushSonone/blob/main/Anush%20Sonone%20Resume.docx.pdf)
+- 📄 Know about my experiences - [Resume](https://github.com/AnushSonone/AnushSonone/blob/main/Anush%20Sonone%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
