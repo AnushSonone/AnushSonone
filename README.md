@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Anush.</h1>
 <h5 align="center">I'm a passionate software developer who loves building servers and automating things. I'm currently attending the University of Texas at Austin to major in Computer Science. Feel free to reach out to me! :) </h5>
 
-- 🔭 I’m currently working on [Anush Sonone Portfolio](https://github.com/AnushSonone/anush-portfolio)
+- 🔭 I’m currently working on [Profluento](https://profluento.dev/)
 
 - 🌱 I’m currently learning and finishing up **Computer Architecture & Organization**
 
