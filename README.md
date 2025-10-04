@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning and finishing up **Computer Architecture & Organization**
 
-- 👨‍💻 All of my projects are available at [anushsonone.vercel.app](https://anushsonone.vercel.app/)
+- 👨‍💻 All of my projects & resume are available at [anushsonone.vercel.app](https://anushsonone.vercel.app/)
 
-- 📫 How to reach me **anush.sonone@gmail.com**
+- 📫 How to reach me **anushse@utexas.edu**
 
 - 📄 Know about my experiences - [Resume](https://github.com/AnushSonone/AnushSonone/blob/main/Anush_Sonone_Resume_2025.pdf)
 
