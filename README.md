@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Anush.</h1>
-<h5 align="center">I'm a passionate software developer who loves building! I'm currently attending the University of Texas at Austin, where I am majoring in Computer Science. Feel free to reach out! :) </h5>
+<h5 align="center">I'm a builder, entrepreneur, and student! I'm currently attending the University of Texas at Austin, where I'm majoring in Computer Science. Feel free to reach out! :) </h5>
 
 - I’m currently working on [Profluento](https://profluento.dev/)
 
