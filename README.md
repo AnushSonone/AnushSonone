@@ -1,13 +1,13 @@
 <h1 align="center">Hello! I'm Anush.</h1>
 <h5 align="center">I'm a builder, entrepreneur, and student! I'm currently attending the University of Texas at Austin, where I'm majoring in Computer Science. Feel free to reach out! :) </h5>
 
-- I’m currently working on [Profluento](https://profluento.dev/)
+- I’m currently working on: [Profluento](https://profluento.dev/)
 
-- I’m currently learning and finishing up **Computer Architecture & Organization**
+- I’m currently learning and finishing up: **Computer Architecture & Organization**
 
-- All of my projects & resume are available at [anush.wiki](https://anush.wiki/)
+- All of my projects & resume are available at: [anush.wiki](https://anush.wiki/)
 
-- How to reach me **anushse@utexas.edu**
+- How to reach me: **anushse@utexas.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
