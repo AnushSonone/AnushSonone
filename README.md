@@ -3,7 +3,7 @@
 
 - I’m currently working on: [Profluento](https://profluento.dev/)
 
-- I’m currently learning and finishing up: **Computer Architecture & Organization**
+- I’m currently learning and finishing up: **Operating Systems**
 
 - All of my projects & resume are available at: [anush.wiki](https://anush.wiki/)
 
