@@ -1,18 +1,94 @@
-<h1 align="center">Hello! I'm Anush.</h1>
-<h5 align="center">I'm a builder, entrepreneur, and student. I'm currently attending the University of Texas at Austin, where I'm majoring in Computer Science. Feel free to reach out! :) </h5>
+<h1 align="center">anush sonone</h1>
+<p align="center">
+incoming @ visa 💳 • prev. ai @ afterquery (yc w25) • cs @ ut austin
+</>
 
-- I’m currently working on: [Profluento](https://profluento.dev/)
+---
 
-- I’m currently learning and finishing up: **Operating Systems**
+### about
+interested in ai, data, infrastructure, and fintech, especially in products that turn signals & data into analytics systems.
 
-- All of my projects & resume are available at: [anush.wiki](https://anush.wiki/)
+---
 
-- How to reach me: **anushse@utexas.edu**
+### experience
+- **visa** — incoming software engineering intern  
+  - building ai & data models for bank fraud detection
+  - joining the **VAS (value added services)** team in austin
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/anushse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anush-sonone" height="30" width="40" /></a>
-</p>
+- **afterquery (yc w25)** — ai evaluation  
+  - built multi-step python evaluation workflows to evaluate manus ai's outputs
+  - benchmarked agent tool use, edge cases, and reliability at **2m+ user scale**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+- **profluento** — co-founder / founding engineer
+  - secured **$100k+ in data grants**
+  - built a scoring pipeline using private apis + custom ranking models
+  - surfaced high-net-worth prospects from large-scale linkedin data
+  - led agentic outreach for **10k+ ranked leads**
+  - acquired **150+ verified clients** for wealth managers
+
+- **cdk global (fortellis)** — swe intern
+  - shipped iam role management across **44k+ dealerships**
+  - extended backend systems and infra using **terraform, ci/cd, and github pr workflows**
+
+---
+
+### selected work
+- **visa protect for banks**
+  - working on ai/data models for large scale banks fraud detection
+  - work in progress
+
+- **profluento linkedin net worth prediction api**
+  - processed **250m+ profiles**
+  - ranked prospects with weighted models + demographic signals
+  - drove **3.5x higher qualified lead conversion**
+
+- **afterquery (yc w25) agent eval + benchmarking engine**
+  - benchmarked multi-step manus ai runs against researched ground truth outputs
+  - stress-tested tool calls, reasoning, and edge cases across 10+ domains
+  - improved accuracy + reliability at 2m+ user scale
+
+- **hacktx lapsynk**  
+  - placed **3rd at hacktx 2025** in the northmark compute & cloud track
+  - built a real-time formula 1 telemetry dashboard + ai voice copilot
+
+- **cdk fortellis super admin dashboard**  
+  - built multi-tenant user + role management flows
+  - added audit logging with **dynamodb streams + aws lambda**
+
+---
+
+### skills
+**ai / data systems**  
+llms, rag, prompt engineering, agent evaluation, mcp servers, ranking systems, scoring pipelines, benchmarking workflows, structured + unstructured data processing
+
+**languages**  
+python, typescript, javascript, sql, java, c, assembly, html/css
+
+**backend & apis**  
+node.js, express, flask, rest apis, openapi, swagger, postman
+
+**frontend**  
+react, typescript, tailwind
+
+**cloud & distributed systems**  
+aws (lambda, ecs, ec2, s3, rds, dynamodb, sqs, cloudwatch), cloudflare
+
+**infrastructure & devops**  
+docker, terraform, ci/cd, git, github
+
+**databases**  
+postgresql, dynamodb, supabase
+
+**auth & systems**  
+oauth 2.0, okta, iam, multi-tenant role systems, audit logging
+
+**testing & quality**  
+jest, pytest
+
+---
+
+### links
+- portfolio → https://anush.wiki  
+- linkedin → https://linkedin.com/in/anushse  
+- email → anushse@utexas.edu  
+- x → https://x.com/anushwiki
