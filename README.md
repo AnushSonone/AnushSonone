@@ -32,31 +32,6 @@ interested in ai, data, infrastructure, and fintech, especially in products that
 
 ---
 
-### selected work
-- **visa protect for banks**
-  - working on ai/data models for large scale banks fraud detection
-  - work in progress
-
-- **profluento linkedin net worth prediction api**
-  - processed **250m+ profiles**
-  - ranked prospects with weighted models + demographic signals
-  - drove **3.5x higher qualified lead conversion**
-
-- **afterquery (yc w25) agent eval + benchmarking engine**
-  - benchmarked multi-step manus ai runs against researched ground truth outputs
-  - stress-tested tool calls, reasoning, and edge cases across 10+ domains
-  - improved accuracy + reliability at 2m+ user scale
-
-- **hacktx lapsynk**  
-  - placed **3rd at hacktx 2025** in the northmark compute & cloud track
-  - built a real-time formula 1 telemetry dashboard + ai voice copilot
-
-- **cdk fortellis super admin dashboard**  
-  - built multi-tenant user + role management flows
-  - added audit logging with **dynamodb streams + aws lambda**
-
----
-
 ### skills
 **ai / data systems**  
 llms, rag, prompt engineering, agent evaluation, mcp servers, ranking systems, scoring pipelines, benchmarking workflows, structured + unstructured data processing
