@@ -32,36 +32,6 @@ interested in ai, data, infrastructure, and fintech, especially in products that
 
 ---
 
-### skills
-**ai / data systems**  
-llms, rag, prompt engineering, agent evaluation, mcp servers, ranking systems, scoring pipelines, benchmarking workflows, structured + unstructured data processing
-
-**languages**  
-python, typescript, javascript, sql, java, c, assembly, html/css
-
-**backend & apis**  
-node.js, express, flask, rest apis, openapi, swagger, postman
-
-**frontend**  
-react, typescript, tailwind
-
-**cloud & distributed systems**  
-aws (lambda, ecs, ec2, s3, rds, dynamodb, sqs, cloudwatch), cloudflare
-
-**infrastructure & devops**  
-docker, terraform, ci/cd, git, github
-
-**databases**  
-postgresql, dynamodb, supabase
-
-**auth & systems**  
-oauth 2.0, okta, iam, multi-tenant role systems, audit logging
-
-**testing & quality**  
-jest, pytest
-
----
-
 ### links
 - portfolio → https://anush.wiki  
 - linkedin → https://linkedin.com/in/anushse  
