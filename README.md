@@ -11,7 +11,9 @@ interested in ai, data, infrastructure, and fintech, especially in products that
 ---
 
 ### experience
-- **visa** — incoming software engineering intern  
+- **pwc** — incoming software engineering intern  
+  - incoming fall 2026
+- **visa** — software engineering intern  
   - building ai & data models for bank fraud detection
   - joining the **vas (value added services)** team in austin
 
