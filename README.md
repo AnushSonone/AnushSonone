@@ -1,6 +1,6 @@
 <h1 align="center">anush sonone</h1>
 <p align="center">
-incoming @ visa 💳 • prev. ai @ afterquery (yc w25) • cs @ ut austin
+incoming @ visa 💳, pwc • prev. ai @ afterquery (yc w25) • cs @ ut austin
 </>
 
 ---
