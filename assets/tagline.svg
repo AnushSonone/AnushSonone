@@ -32,7 +32,7 @@
         <path id='path1'>
                             <!-- Single line -->
                                 <animate id='d1' attributeName='d' begin='d0.end'
-                    dur='6000ms' fill='remove'
+                    dur='4000ms' fill='remove'
                     values='m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
                     </path>
     <text font-family='"Fira Code", monospace' fill='#2F81F7' font-size='18'
@@ -46,7 +46,7 @@
         <path id='path2'>
                             <!-- Single line -->
                                 <animate id='d2' attributeName='d' begin='d1.end'
-                    dur='6000ms' fill='remove'
+                    dur='4000ms' fill='remove'
                     values='m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
                     </path>
     <text font-family='"Fira Code", monospace' fill='#2F81F7' font-size='18'
@@ -60,7 +60,7 @@
         <path id='path3'>
                             <!-- Single line -->
                                 <animate id='d3' attributeName='d' begin='d2.end'
-                    dur='6000ms' fill='remove'
+                    dur='4000ms' fill='remove'
                     values='m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
                     </path>
     <text font-family='"Fira Code", monospace' fill='#2F81F7' font-size='18'
