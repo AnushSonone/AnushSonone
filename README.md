@@ -1,13 +1,8 @@
 <h1 align="center">anush sonone</h1>
-<p align="center">
-  <img src="./assets/tagline.svg" width="500" alt="cs @ ut austin" />
-</p>
 
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com/?user=anushsonone&hide_border=true" alt="github streak" />
 </p>
-
----
 
 ### about
 interested in ai, data, infrastructure, and fintech, especially in products that turn signals & data into analytics systems.
