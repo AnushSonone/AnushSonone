@@ -5,11 +5,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anushsonone&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="github stats" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=anushsonone&hide_border=true" alt="github streak" />
-</p>
-
 ---
 
 ### about
