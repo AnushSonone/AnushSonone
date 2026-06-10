@@ -1,7 +1,7 @@
 <h1 align="center">anush sonone</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=cs+%40+ut+austin;incoming+swe+%40+pwc+(fall+'26);prev.+visa+%C2%B7+afterquery+(yc+w25)" alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=cs+%40+ut+austin;swe+%40+visa;incoming+swe+%40+pwc+(fall+'26);prev.+afterquery+(yc+w25)" alt="typing intro" />
   </a>
 </p>
 
@@ -16,8 +16,8 @@
 interested in ai, data, infrastructure, and fintech, especially in products that turn signals & data into analytics systems.
 
 ### experience
-- **pwc** — incoming software engineering intern
 - **visa** — software engineering intern
+- **pwc** — incoming software engineering intern
 - **afterquery (yc w25)** — ai evaluation
 - **profluento** — co-founder / founding engineer
 - **cdk global (fortellis)** — swe intern
