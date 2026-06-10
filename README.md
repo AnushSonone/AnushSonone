@@ -1,6 +1,6 @@
 <h1 align="center">anush sonone</h1>
 <p align="center">
-  <img src="./assets/tagline.svg" width="435" alt="cs @ ut austin" />
+  <img src="./assets/tagline.svg" width="500" alt="cs @ ut austin" />
 </p>
 
 <p align="center">
