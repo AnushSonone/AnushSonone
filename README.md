@@ -5,6 +5,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com/?user=anushsonone&hide_border=true" alt="github streak" />
+</p>
+
 ---
 
 ### about
