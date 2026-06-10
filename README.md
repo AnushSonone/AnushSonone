@@ -1,6 +1,6 @@
 <h1 align="center">anush sonone</h1>
 
-<p align="center">
+<p align="center" style="padding-top: 32px;">
   <img height="165" src="https://streak-stats.demolab.com/?user=anushsonone&hide_border=true" alt="github streak" />
 </p>
 
