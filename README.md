@@ -14,6 +14,8 @@
 
 i like finding pain points across products, infrastructure, and the systems people rely on every day, then pinning down solutions with data, machine learning, and ai.
 
+i also love eating like a bear, lifting, and massive brownies. the works.
+
 ### 𓆝 experience! (where i've been)
 
 - **pwc**, incoming ai engineering intern, fall 2026!
