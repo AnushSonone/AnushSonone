@@ -1,7 +1,7 @@
 <h1 align="center">𓆝 𓆟 𓆞 hi, i'm anush! 𓆞 𓆟 𓆝</h1>
 
 <p align="center">
-  cs @ ut austin &nbsp;·&nbsp; incoming ai engineering intern @ pwc &nbsp;·&nbsp; i turn signals and raw data into systems you can ship
+  cs @ ut austin &nbsp;·&nbsp; incoming ai engineering intern @ pwc &nbsp;·&nbsp; i turn signals and raw data into systems
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 <p align="center">𓆝 𓆟 𓆞 𓆝</p>
 
-i like finding pain points across products, infrastructure, and the systems people rely on every day, then pinning down solutions with data, machine learning, and ai.
+i like poking at the messy parts of products, infrastructure, and everyday systems people depend on, then figuring out fixes with data, some ml, and a bit of ai.
 
 i also love eating like a bear, lifting, and massive brownies. the works.
 
