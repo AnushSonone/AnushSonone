@@ -1,4 +1,8 @@
-<h1 align="center">𓆝 𓆟 𓆞 hi, i'm anush! 𓆞 𓆟 𓆝</h1>
+<h1 align="center">
+𓆝 𓆟 𓆞<br>
+hi, i'm anush!<br>
+𓆞 𓆟 𓆝
+</h1>
 
 <p align="center">
   cs @ ut austin &nbsp;·&nbsp; incoming ai engineering intern @ pwc &nbsp;·&nbsp; i turn signals and raw data into systems
