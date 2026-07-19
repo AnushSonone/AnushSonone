@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/anushse"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a href="mailto:anushse@utexas.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="https://github.com/AnushSonone"><img src="https://komarev.com/ghpvc/?username=AnushSonone&style=flat&color=1e90ff&label=profile+views" alt="profile views" /></a>
   <a href="https://anush.wiki"><img src="https://img.shields.io/badge/anush.wiki-111111?style=flat&logo=googlechrome&logoColor=white" alt="website" /></a>
 </p>
 
@@ -18,11 +19,11 @@ i also love eating like a bear, lifting, and massive brownies. the works.
 
 ### 𓆝 experience! (where i've been)
 
-- **pwc**, incoming ai engineering intern, fall 2026!
-- **visa**, swe intern: cut user onboarding from 3 months to 3 days with langgraph provisioning workflows
-- **afterquery (yc w25)**, ai engineering intern: built agent eval pipelines that lifted tool call accuracy 18% at 2m+ user scale
-- **profluento ai**, co founder & cto: raised $100k and shipped a lead scoring engine for wealth management firms
-- **cdk global**, swe intern: shipped cdk iam's "super admin" role across 44k+ dealerships
+- **[pwc](https://www.pwc.com/)**, incoming ai engineering intern, fall 2026!
+- **[visa](https://www.visa.com/en-us/solutions/visa-protect/issuers)**, swe intern: cut user onboarding from 3 months to 3 days with langgraph provisioning workflows
+- **[afterquery (yc w25)](https://www.afterquery.com/)**, ai engineering intern: built agent eval pipelines that lifted tool call accuracy 18% at 2m+ user scale
+- **[profluento ai](https://profluento.dev)**, co founder & cto: raised $100k and shipped a lead scoring engine for wealth management firms
+- **[cdk global](https://fortellis.io/)**, swe intern: shipped cdk iam's "super admin" role across 44k+ dealerships
 
 ### 𓆟 what i'm working on! (currently)
 
@@ -31,9 +32,9 @@ i also love eating like a bear, lifting, and massive brownies. the works.
 
 ### 𓆞 what i've built! (and tinkering with)
 
-- **killmycluster**: a self healing raft kv that recovers from leader failure within 10s under load
-- **lapsynk**: formula 1 ai copilot that placed 3rd at hacktx 2025 out of 733 hackers
-- **profluento lead scoring**: scored high net worth prospects and cut paid enrichments by 80%
+- **[killmycluster](https://github.com/AnushSonone/kill-my-cluster)**: a self healing raft kv that recovers from leader failure within 10s under load
+- **[lapsynk](https://devpost.com/software/a-wnbv1p)**: formula 1 ai copilot that placed 3rd at hacktx 2025 out of 733 hackers
+- **[profluento lead scoring](https://github.com/AnushSonone/profluento)**: scored high net worth prospects and cut paid enrichments by 80%
 
 ### 𓆝 stack i reach for!
 
