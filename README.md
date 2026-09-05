@@ -37,6 +37,7 @@ i also love eating like a bear, lifting, and massive brownies. the works.
 ### 𓆞 what i've built! (and tinkering with)
 
 - **[killmycluster](https://github.com/AnushSonone/kill-my-cluster)**: a self healing raft kv that recovers from leader failure within 10s under load
+- **[faultline](https://github.com/AnushSonone/faultline)**: a root cause analysis engine that replays a microservice outage and ranks which service broke first
 - **[lapsynk](https://devpost.com/software/a-wnbv1p)**: formula 1 ai copilot that placed 3rd at hacktx 2025 out of 733 hackers
 - **[profluento lead scoring](https://github.com/AnushSonone/profluento)**: scored high net worth prospects and cut paid enrichments by 80%
 
