@@ -5,7 +5,7 @@ hi, i'm anush!<br>
 </h1>
 
 <p align="center">
-  cs @ ut austin &nbsp;·&nbsp; incoming ai engineering intern @ pwc &nbsp;·&nbsp; i turn signals and raw data into systems
+  cs @ ut austin &nbsp;·&nbsp; ai engineering intern @ pwc &nbsp;·&nbsp; i turn signals and raw data into systems
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ i also love eating like a bear, lifting, and massive brownies. the works.
 
 ### 𓆝 experience! (where i've been)
 
-- **[pwc](https://www.pwc.com/)**, incoming ai engineering intern, fall 2026!
+- **[pwc](https://www.pwc.com/)**, ai engineering intern: designing azure agent infra to cut manual tax agreement review
 - **[visa](https://www.visa.com/en-us/solutions/visa-protect/issuers)**, swe intern: cut user onboarding from 3 months to 3 days with langgraph provisioning workflows
 - **[afterquery (yc w25)](https://www.afterquery.com/)**, ai engineering intern: built agent eval pipelines that lifted tool call accuracy 18% at 2m+ user scale
 - **[profluento ai](https://profluento.dev)**, co founder & cto: raised $100k and shipped a lead scoring engine for wealth management firms
@@ -32,6 +32,7 @@ i also love eating like a bear, lifting, and massive brownies. the works.
 ### 𓆟 what i'm working on! (currently)
 
 - diving deeper into distributed systems, raft, replication, and fault tolerant infra
+- designing agent infra on azure at pwc with queued workers and strict schema output
 - building agents and evaluation harnesses that hold up outside the demo
 
 ### 𓆞 what i've built! (and tinkering with)
