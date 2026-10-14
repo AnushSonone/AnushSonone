@@ -23,11 +23,11 @@ i also love eating like a bear, lifting, and massive brownies. the works.
 
 ### 𓆝 experience! (where i've been)
 
-- **[pwc](https://www.pwc.com/)**, ai engineering intern: saved the tax team 15+ hrs/week in pilot with schema-locked llm extraction over llc agreements, 98% accurate on auto-accepted fields
-- **[visa](https://www.visa.com/en-us/solutions/visa-protect/issuers)**, swe intern: cut risk suite onboarding from 3 months to 3 days by deploying agent & notif services on eks fargate, with a postgres outbox and redis streams dlq behind 16k+ notifs
-- **[afterquery (yc w25)](https://www.afterquery.com/)**, ai engineering intern: lifted manus ai's browser-agent accuracy 18% with an s3 artifact store that replays bad and failed agent tool calls
-- **[profluento ai](https://profluento.dev)**, co founder & cto: raised $100k and shipped a lead scoring engine for wealth management firms
-- **[cdk global](https://fortellis.io/)**, swe intern: shipped cdk iam's "super admin" role across 44k+ dealerships
+- **[pwc](https://www.pwc.com/)**, ai engineering intern: schema-locked llm extraction, 15+ hrs/week saved
+- **[visa](https://www.visa.com/en-us/solutions/visa-protect/issuers)**, swe intern: risk onboarding, 3 months to 3 days
+- **[afterquery (yc w25)](https://www.afterquery.com/)**, ai engineering intern: +18% manus browser-agent accuracy
+- **[profluento ai](https://profluento.dev)**, co-founder & cto: raised $100k, shipped lead scoring
+- **[cdk global](https://fortellis.io/)**, swe intern: iam super admin across 44k+ dealerships
 
 ### 𓆟 what i'm working on! (currently)
 
