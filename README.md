@@ -5,7 +5,7 @@ hi, i'm anush!<br>
 </h1>
 
 <p align="center">
-  cs @ ut austin &nbsp;·&nbsp; ai engineering intern @ pwc &nbsp;·&nbsp; i like poking at the messy parts of products, infrastructure, and everyday systems people depend on, then figuring out fixes with data, some ml, and a bit of ai.
+  cs @ ut austin &nbsp;·&nbsp; ai engineering intern @ pwc &nbsp;·&nbsp;
 </p>
 
 <p align="center">
