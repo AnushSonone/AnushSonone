@@ -5,7 +5,7 @@ hi, i'm anush!<br>
 </h1>
 
 <p align="center">
-  cs @ ut austin &nbsp;·&nbsp; ai engineering intern @ pwc &nbsp;·&nbsp;
+  cs @ ut austin &nbsp;·&nbsp; ai engineering intern @ pwc;
 </p>
 
 <p align="center">
